@@ -29,6 +29,8 @@ Welcome to TRAVOLOQ.IN, the innovative travel booking platform that simplifies t
 2. Install API dependencies: `npm install`
 3. Start the API server: `nodemon`
 
+**Note**: The backend does not work on Vercel. You may encounter errors when attempting to log in or create an account on the deployed version. To use these features, download the files and run them on your local system.
+
 ## Contributing
 
 We welcome contributions from the community. If you'd like to enhance TRAVOLOQ, please review our [Contribution Guidelines](CONTRIBUTING.md).
